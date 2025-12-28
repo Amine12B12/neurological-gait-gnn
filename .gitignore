@@ -1,0 +1,17 @@
+# Ignore les données lourdes (C'est la règle d'or !)
+data/raw/
+data/processed/
+*.zip
+*.npz
+
+# Ignore l'environnement virtuel (Chaque ordi doit créer le sien)
+venv/
+.env
+
+# Ignore les fichiers caches de Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore les modèles trop lourds (optionnel, si > 100Mo)
+# models/*.pth
