@@ -14,7 +14,7 @@ Contrairement aux approches classiques (vidéo RGB), ce modèle travaille sur le
 2. **La robustesse** (L'IA analyse le mouvement pur, pas les vêtements).
 3. **La précision** (Modélisation des interactions fonctionnelles entre les membres).
 
-![Aperçu Squelette](https://private-user-images.githubusercontent.com/215486463/530570013-bdc10532-90c7-4017-a333-07475880c10b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5NDg2NjcsIm5iZiI6MTc2Njk0ODM2NywicGF0aCI6Ii8yMTU0ODY0NjMvNTMwNTcwMDEzLWJkYzEwNTMyLTkwYzctNDAxNy1hMzMzLTA3NDc1ODgwYzEwYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyOFQxODU5MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzQ5ZmMzY2Y3Y2JmZTcxYjE2YzJjOTdiZTFlYTEyODViZGU0MzA3MWY2YzNmNDQ5MDMzZjA4OGMzNjRhNDM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jIMHn5eEWGuvHGUXPC5LU2NFadlkKLbA_e1F9HHMl8Q)
+![Aperçu Squelette](https://raw.githubusercontent.com/yysijie/st-gcn/master/resource/demo.gif)
 
 ## 🎯 Objectifs Scientifiques
 * **Modéliser** le corps humain sous forme de graphe $(V, E)$.
@@ -55,7 +55,7 @@ Sur un jeu de test parfaitement équilibré (jamais vu par le modèle durant l'e
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com/Amine12B12/neurological-gait-gnn.git](https://github.com/votre-pseudo/neurological-gait-gnn.git)
+git clone [https://github.com/Amine12B12/neurological-gait-gnn.git](https://github.com/Amine12B12/neurological-gait-gnn.git)
 cd neurological-gait-gnn
 
 ```
