@@ -1,10 +1,3 @@
-C'est parti. Voici le contenu exact de ton fichier `README.md`, formaté parfaitement pour GitHub.
-
-Tu as juste à copier tout le bloc de code ci-dessous (en cliquant sur le bouton "Copy" en haut à droite du bloc) et à le coller dans ton fichier `README.md` dans VS Code.
-
----
-
-```markdown
 # 🧠 Analyse Neurologique de la Marche par Graphes Spatio-Temporels (ST-GCN)
 
 > **Diagnostic automatisé des pathologies motrices (AVC, Parkinson) via l'analyse cinématique du squelette.**
